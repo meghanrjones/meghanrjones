@@ -1,16 +1,35 @@
 ### Hi there 👋
 
-<!--
-**meghanrjones/meghanrjones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Postdoctoral Researcher and software developer working for the
+[University of Hawaiʻi at Mānoa](https://manoa.hawaii.edu/), based in New York
+:us:
 
-Here are some ideas to get you started:
+I worked as a scientist for the federal government :technologist: after
+completing a PhD in submarine volcanology at the Massachusetts Institute
+of Technology/Woods Hole Oceanographic Institution Joint Program :volcano:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Published work:
+
+- [Google Scholar](https://scholar.google.com/citations?user=pEVL_ocAAAAJ)
+- [ORCID](https://orcid.org/0000-0003-0180-8928)
+
+Software:
+
+- [Generic Mapping Tools](https://github.com/GenericMappingTools/gmt) - A
+  collection of command-line tools for manipulating geographic and Cartesian
+  data sets (including filtering, trend fitting, gridding, projecting, etc.)
+  and producing high-quality illustrations and animations :earth_africa:
+- [PyGMT](https://github.com/GenericMappingTools/pygmt) - A Pythonic Interface
+  for the Generic Mapping Tools :earth_americas:
+
+Teaching:
+
+- [2021 ESWN Workshop Professional Development Workshop: Developing Free and Open Source Software with PyGMT](https://github.com/GenericMappingTools/2021-eswn-pygmt-workshop) - A professional development workshop dedicated to increasing the participation of people
+  from underrepresented groups in open source communities with a focus on software related to Earth Science and growing
+  the community of PyGMT contributors.
+- [2021 UNAVCO GMT for Geodesy course](https://github.com/GenericMappingTools/2021-unavco-course) - A short course designed
+  to teach the use of GMT 6 in geodesy using UNIX shell scripting, including processing and mapping of various datasets
+  related to geodesy.
+- [2021 ESVI REU Program - Intro to MATLAB and Git Version Control](https://github.com/meghanrjones/2021-reu-matlab-git) -
+  A workshop designed to teach basics of Git Version Control and scientific programming in MATLAB to REU students at the
+  Hawaiʻi at Mānoa.
