@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-I am a Postdoctoral Researcher and software developer working for the
-[University of Hawaiʻi at Mānoa](https://manoa.hawaii.edu/), based in New York
-:us:
-
-I worked as a scientist for the federal government :technologist: after
+I am currently working as a Data Scientist [@CarbonPlan](https://carbonplan.org/).
+I worked as a postdoctoral researcher for the [University of Hawaiʻi at Mānoa](https://manoa.hawaii.edu/)
+and a scientist for the federal government :technologist: after
 completing a PhD in submarine volcanology at the Massachusetts Institute
 of Technology/Woods Hole Oceanographic Institution Joint Program :volcano:
 
