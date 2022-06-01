@@ -22,6 +22,7 @@ Software:
 
 Teaching:
 
+- [2022 EGU Short Course: Crafting beautiful maps with PyGMT](https://github.com/GenericMappingTools/egu22pygmt) - A short course geared towards geoscientists interested in creating beautiful maps using Python.
 - [2021 ESWN Workshop Professional Development Workshop: Developing Free and Open Source Software with PyGMT](https://github.com/GenericMappingTools/2021-eswn-pygmt-workshop) - A professional development workshop dedicated to increasing the participation of people
   from underrepresented groups in open source communities with a focus on software related to Earth Science and growing
   the community of PyGMT contributors.
