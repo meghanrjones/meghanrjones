@@ -32,6 +32,6 @@ Teaching:
 - [2021 UNAVCO GMT for Geodesy course](https://github.com/GenericMappingTools/2021-unavco-course) - A short course designed
   to teach the use of GMT 6 in geodesy using UNIX shell scripting, including processing and mapping of various datasets
   related to geodesy.
-- [2021 ESVI REU Program - Intro to MATLAB and Git Version Control](https://github.com/meghanrjones/2021-reu-matlab-git) -
+- [2021 ESVI REU Program - Intro to MATLAB and Git Version Control](https://github.com/maxrjones/2021-reu-matlab-git) -
   A workshop designed to teach basics of Git Version Control and scientific programming in MATLAB to REU students at the
   Hawaiʻi at Mānoa.
