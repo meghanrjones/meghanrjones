@@ -19,6 +19,7 @@ Software:
   and producing high-quality illustrations and animations :earth_africa:
 - [PyGMT](https://github.com/GenericMappingTools/pygmt) - A Pythonic Interface
   for the Generic Mapping Tools :earth_americas:
+- [Xbatcher](https://github.com/xarray-contrib/xbatcher) - Batch generation from xarray datasets
 
 Teaching:
 
