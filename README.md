@@ -1,15 +1,10 @@
 ### Hi there 👋
 
 I am currently working as a Data Scientist [@CarbonPlan](https://carbonplan.org/).
-I worked as a postdoctoral researcher for the [University of Hawaiʻi at Mānoa](https://manoa.hawaii.edu/)
-and a scientist for the federal government :technologist: after
-completing a PhD in submarine volcanology at the Massachusetts Institute
+I previously worked as a postdoctoral researcher for the [University of Hawaiʻi at Mānoa](https://manoa.hawaii.edu/)
+and a scientist for the federal government :technologist:. I
+completed a PhD in geological oceanography, researching underwater volcanoes, at the Massachusetts Institute
 of Technology/Woods Hole Oceanographic Institution Joint Program :volcano:
-
-Published work:
-
-- [Google Scholar](https://scholar.google.com/citations?user=pEVL_ocAAAAJ)
-- [ORCID](https://orcid.org/0000-0003-0180-8928)
 
 Software:
 
