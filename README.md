@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am currently working as a Data Scientist [@CarbonPlan](https://carbonplan.org/).
+I am currently working as the Open Source Lead [@CarbonPlan](https://carbonplan.org/).
 I previously worked as a postdoctoral researcher for the [University of Hawaiʻi at Mānoa](https://manoa.hawaii.edu/)
 and a scientist for the federal government :technologist:. I
 completed a PhD in geological oceanography, researching underwater volcanoes, at the Massachusetts Institute
