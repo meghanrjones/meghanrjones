@@ -18,6 +18,9 @@ Software:
 
 Teaching:
 
+- [2023 EarthScope GMT for Geodesy course](https://github.com/GenericMappingTools/gmt-for-geodesy) - An annual short course designed
+  to teach the use of GMT 6 in geodesy using UNIX shell scripting, including processing and mapping of various datasets
+  related to geodesy.
 - [2022 UNAVCO GMT for Geodesy course](https://github.com/GenericMappingTools/gmt-for-geodesy) - An annual short course designed
   to teach the use of GMT 6 in geodesy using UNIX shell scripting, including processing and mapping of various datasets
   related to geodesy.
