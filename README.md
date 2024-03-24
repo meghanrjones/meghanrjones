@@ -14,7 +14,9 @@ Software:
   and producing high-quality illustrations and animations :earth_africa:
 - [PyGMT](https://github.com/GenericMappingTools/pygmt) - A Pythonic Interface
   for the Generic Mapping Tools :earth_americas:
-- [Xbatcher](https://github.com/xarray-contrib/xbatcher) - Batch generation from xarray datasets
+- [Xbatcher](https://github.com/xarray-contrib/xbatcher) - Batch generation from Xarray datasets
+- [Ndpyramid](https://github.com/carbonplan/ndpyramid) - Pyramid generation using Xarray and Zarr
+- [eddy-footprint](https://github.com/arctic-carbon/eddy-footprint) - Eddy covariance footprint modeling using Xarray
 
 Teaching:
 
