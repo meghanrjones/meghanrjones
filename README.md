@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-I am currently working as the Open Source Lead [@CarbonPlan](https://carbonplan.org/).
-I previously worked as a postdoctoral researcher for the [University of Hawaiʻi at Mānoa](https://manoa.hawaii.edu/)
+I am currently working as a Cloud Engineer at [Development Seed](https://developmentseed.org/).
+I previously worked as the Open Source Lead at [CarbonPlan](https://carbonplan.org/), a postdoctoral researcher for the [University of Hawaiʻi at Mānoa](https://manoa.hawaii.edu/),
 and a scientist for the federal government :technologist:. I
-completed a PhD in geological oceanography, researching underwater volcanoes, at the Massachusetts Institute
+completed a PhD researching underwater volcanoes at the Massachusetts Institute
 of Technology/Woods Hole Oceanographic Institution Joint Program :volcano:
 
 Software:
@@ -20,6 +20,7 @@ Software:
 
 Teaching:
 
+- [2024 SciPy Xarray Tutorial](https://tutorial.xarray.dev/workshops/scipy2024/index.html) - A four-hour workshop on "Xarray: Friendly, Interactive, and Scalable Scientific Data Analysis", which involved reviewing a curated set of examples that prepared students for complex real-world data analysis tasks.
 - [2023 EarthScope GMT for Geodesy course](https://github.com/GenericMappingTools/gmt-for-geodesy) - An annual short course designed
   to teach the use of GMT 6 in geodesy using UNIX shell scripting, including processing and mapping of various datasets
   related to geodesy.
